@@ -1,0 +1,6 @@
+[submodule "extensions/webrtc-control"]
+	path = extensions/webrtc-control
+	url = git@github.com:luluhunters/webrtc-control.git
+[submodule "extensions/tools"]
+	path = extensions/tools
+	url = git@github.com:luluhunters/tools-extension.git
